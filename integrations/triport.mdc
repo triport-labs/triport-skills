@@ -1,0 +1,19 @@
+---
+description: Use for Triport API keys, Solana RPC/gRPC/shreds, EVM logs and subscriptions, wallet identity/activity/watch, Tron, TON or Stellar integrations.
+alwaysApply: false
+---
+
+Read the relevant local skill under `.triport-skills/skills/` and its linked
+references as needed. Do not load every skill for an unrelated task.
+
+- Keys, URL templates, tiers: `triport-getting-started/SKILL.md`.
+- Solana RPC/WS, address history, priority fees, signed sends: `triport-solana-rpc/SKILL.md`.
+- Yellowstone Geyser protobuf streams: `triport-yellowstone-grpc/SKILL.md`.
+- Solana pre-execution/shreds and firehose: `triport-solana-shreds/SKILL.md`.
+- Ethereum/Base/BNB/Polygon/Robinhood RPC, logs and WS: `triport-evm-rpc/SKILL.md`.
+- Wallet identity/activity/watch and resume: `triport-wallet-apis/SKILL.md`.
+- Tron/TON/Stellar: `triport-other-chains/SKILL.md`.
+
+Keep `TRIPORT_API_KEY` in the environment and out of logs. Verify the chosen
+network's published capabilities. Preserve the user's authorization for sends
+and account changes; read-only examples do not grant additional permissions.

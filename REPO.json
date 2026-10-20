@@ -1,0 +1,6 @@
+{
+  "name": "triport-skills",
+  "description": "Seven portable Agent Skills with checked TypeScript and Python examples for Triport RPC, Solana streams, wallet APIs and nine networks.",
+  "homepage": "https://triport.io/docs",
+  "topics": ["agent-skills", "claude-code", "codex", "cursor", "solana", "ethereum", "yellowstone", "grpc", "websocket", "blockchain"]
+}

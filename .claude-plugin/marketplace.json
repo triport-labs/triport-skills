@@ -1,0 +1,8 @@
+{
+  "name": "triport-labs",
+  "description": "Triport Agent Skills for RPC, Solana streams and wallet APIs.",
+  "owner": { "name": "Triport Labs" },
+  "plugins": [
+    { "name": "triport-skills", "source": "./", "description": "Triport Agent Skills for RPC, streams and wallet APIs." }
+  ]
+}

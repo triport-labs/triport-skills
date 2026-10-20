@@ -1,0 +1,9 @@
+{
+  "name": "triport-skills",
+  "version": "0.1.0",
+  "description": "Triport RPC, streaming and wallet API skills with TypeScript and Python examples.",
+  "author": { "name": "Triport Labs" },
+  "homepage": "https://triport.io/docs",
+  "repository": "https://github.com/triport-labs/triport-skills",
+  "license": "MIT"
+}
