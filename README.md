@@ -7,7 +7,7 @@ wallet APIs. Each `skills/<name>/SKILL.md` has activation metadata, endpoint
 guidance, complete TypeScript/Python examples, error handling and public sources.
 Supporting references stay inside the skill so individual folders can be copied.
 
-[Website](https://triport.io) · [Docs](https://triport.io/docs) · [X](https://x.com/triport_io) · [Telegram](https://t.me/triport_dev) · [Email](mailto:sales@triport.io)
+[Website](https://triport.io) · [Docs](https://triport.io/docs) · [X](https://x.com/triport_io) · [Telegram](https://t.me/triport_sales) · [Email](mailto:sales@triport.io)
 
 ## Quick start: Claude Code in under a minute
 
